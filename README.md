@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Oriana 👩‍💻 
 
 <p align='center'>
-  I live in Santiago, Chile and work at <b>Ecomsur/b> 
+  I live in Santiago, Chile and work at <b>Ecomsur</b> 
 </p>
   
   <p align='center'>
